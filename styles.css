@@ -3,11 +3,7 @@
   margin: 0;
   box-sizing: border-box;
 }
-.back {
-  background-color: bisque;
-  height: 100px;
-  width: 100px;
-}
+
 body {
   background-color: rgb(14, 13, 13);
   position: relative;
